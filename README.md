@@ -5,7 +5,9 @@ Important Points -:
 a.  Chain Rule  
 
 b.  Sigmoid function and derivative of sigmoid function
+    
     Sigmoid Function y= f(x) = 1/(1+e^(-x))
+    
     Derivative of sigmoid function = f(x)(1−f(x))
 
 
