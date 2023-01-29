@@ -3,9 +3,12 @@
 2. model.py file that includes GN/LN/BN and takes an argument to decide which normalization to include
 
 3. Nornalization.ipynb use below command to initialize model
-  a. import model
-  b. from model import Net
-  c. modelBN = Net('bn').to(device) to create the Model having Batch Normalization
+
+        a.import model
+        b. from model import Net
+        c. modelBN = Net('bn').to(device) to create the Model having Batch Normalization
+  
+  
   
 ![image](https://user-images.githubusercontent.com/11747515/215314396-b86b7d05-0a2d-4536-8a9a-bec0a12096d6.png)
 
