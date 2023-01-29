@@ -331,6 +331,12 @@
  
 </details>
 
+ ***Findings***
+
+ ***Batch Normaliazation Model Test Accuracy > Group Normalization Model Test Accuracy > Layer Normalization Model Test Accuracy***
+ 
+ ***Batch Normaliazation Model Training Accuracy > Group Normalization Model Training Accuracy > Layer Normalization Model Training Accuracy***
+
 
 ![image](https://user-images.githubusercontent.com/11747515/215314563-aa4fdeeb-545e-4bf2-aac4-886c83673c09.png)
 
