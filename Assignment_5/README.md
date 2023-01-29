@@ -1,6 +1,6 @@
 1. Nornalization.ipynb  notebook file to run all the 3 models for 20 epochs each
 
-2. model.py file that includes GN/LN/BN and takes an argument to decide which normalization to include
+2. model.py file has Net class takes an argument to decide which normalization to include(BN/LN/GN)
 
 3. Nornalization.ipynb use below command to initialize model
 
