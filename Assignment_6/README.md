@@ -35,8 +35,11 @@
  4. Dilated Convolution is Used
  5. GAP is Used
  6. (Epoch 74)
-    a. Train set: Average loss: 0.6409, Accuracy: 87.12 
-    b. Test set: Average loss: 0.486, Accuracy: 84.66
+ 7. Accuracy achieved in 74 Epochs 
+ 
+        a. Train set: Average loss: 0.6409, Accuracy: 87.12    
+        
+        b. Test set: Average loss: 0.486, Accuracy: 84.66**
 
 
 
